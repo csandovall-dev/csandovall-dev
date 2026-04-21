@@ -3,7 +3,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ingeniero%20de%20Sistemas%20|%20IA%20&%20Machine%20Learning&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-# 👋 Hola, soy Carlos Sandoval
+# 👋 Hola, soy César Sandoval
 
 ### 🚀 Ingeniero de Sistemas | Especialista en IA & Machine Learning
 
@@ -141,10 +141,10 @@ Me enfoco en:
 
 ¿Te interesa colaborar en proyectos de IA o discutir sobre machine learning?
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.sandovall@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csandovall-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csandovalozada@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csandovall/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/csandovall-dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/csandovall-dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/csandovall)
 
 </div>
 
