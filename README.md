@@ -7,9 +7,9 @@
 
 ### 🚀 Ingeniero de Sistemas | Especialista en IA & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/csandovall-dev)
-[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:carlos.sandovall@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-green?style=for-the-badge&logo=github)](https://csandovall-dev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/csandovall/)
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:csandovalozada@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-green?style=for-the-badge&logo=github)](https://github.com/csandovall-dev/csandovall-dev/)
 
 ---
 
