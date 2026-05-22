@@ -1,0 +1,48 @@
+```
+# Dependencies
+vendor/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Compiled and build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
+build/
+dist/
+
+# Cache and temporary files
+.cache/
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Editor
+.vscode/
+.idea/
+
+# PHP specific
+*.php~
+*.php.bak
+```
