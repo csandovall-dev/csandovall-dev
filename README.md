@@ -3,12 +3,12 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ingeniero%20de%20Sistemas%20|%20IA%20&%20Machine%20Learning&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-# 👋 Hola, soy Carlos Sandoval
+# 👋 Hola, soy César Sandoval
 
 ### 🚀 Ingeniero de Sistemas | Especialista en IA & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/csandovall-dev)
-[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:carlos.sandovall@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/csandovall/)
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:csandovall@lamolina.edu.pe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-green?style=for-the-badge&logo=github)](https://csandovall-dev.github.io)
 
 ---
