@@ -3,7 +3,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ingeniero%20de%20Sistemas%20|%20IA%20&%20AgroTech&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-# 👋 Hola, soy Carlos Sandoval
+# 👋 Hola, soy César Sandoval Lozada
 
 ### 🚀 Ingeniero de Sistemas | Especialista en IA aplicada a Agricultura & Teledetección
 
